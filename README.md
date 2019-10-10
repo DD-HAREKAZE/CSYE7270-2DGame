@@ -18,4 +18,14 @@ Inspired by following games:
 
 -> TNT 
 
+-> Angry Birds 
+
+Assets packages and references:
+
+Unity Assets Store:Sunnyland; BayatGames; Standard Assets;
+
+From Internet:Angry Birds; Worms;
+
+Tutorial video reference: https://www.bilibili.com/video/av23134891 Author: Bilibili Up: 李三影 Sanying Lee
+
 
