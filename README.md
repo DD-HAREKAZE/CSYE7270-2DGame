@@ -1,4 +1,4 @@
-# CSYE7270-A2-2DGame
+# CSYE7270-2DGame
 
 CSYE 7270 Fall 2019 Assignment2 2D Game: artillery game 
 
