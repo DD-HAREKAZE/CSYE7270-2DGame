@@ -7,6 +7,9 @@ TagManager:
   - Destructible
   - Deadline
   - Boundary
+  - TestTag1
+  - TestTag2
+  - TestTag3
   layers:
   - Default
   - TransparentFX

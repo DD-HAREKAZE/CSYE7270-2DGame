@@ -22,10 +22,11 @@ Inspired by following games:
 
 Assets packages and references:
 
-Unity Assets Store:Sunnyland; BayatGames; Standard Assets;
+Unity Assets Store:Sunnyland; BayatGames; Standard Assets; 爱给网
 
 From Internet:Angry Birds; Worms;
 
 Tutorial video reference: https://www.bilibili.com/video/av23134891 Author: Bilibili Up: 李三影 Sanying Lee
+
 
 

@@ -11,7 +11,6 @@ public class playerController : MonoBehaviour
     public float maxSpeed;
     public int HP;
     public bool faceRight;//judge where the player faces towards
-
     public string whichPlayer;
 
     //UI associated
@@ -37,11 +36,15 @@ public class playerController : MonoBehaviour
         }
         if (faceRight == false) 
         {
-            this.gameObject.GetComponent<SpriteRenderer>().flipX=true;
+            Vector3 turn = new Vector3(-1,1,1);
+            this.gameObject.GetComponent<Transform>().localScale = turn;
+            //this.gameObject.GetComponent<SpriteRenderer>().flipX=true;
         }
         if (faceRight == true)
         {
-            this.gameObject.GetComponent<SpriteRenderer>().flipX = false;
+            Vector3 turn = new Vector3(1, 1, 1);
+            this.gameObject.GetComponent<Transform>().localScale = turn;
+            //this.gameObject.GetComponent<SpriteRenderer>().flipX = false;
         }
         HPShown.text = "HP: " + HP.ToString();
         //ATTENTION! I doubt if there is still a bug here or not. ? "whichPlayer" doesn't actually work!
